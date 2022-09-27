@@ -1,0 +1,15 @@
+C:\Users\stormy\Git\school projects\numberAnalyzer\bin\Debug\net6.0\numberAnalyzer.exe
+C:\Users\stormy\Git\school projects\numberAnalyzer\bin\Debug\net6.0\numberAnalyzer.deps.json
+C:\Users\stormy\Git\school projects\numberAnalyzer\bin\Debug\net6.0\numberAnalyzer.runtimeconfig.json
+C:\Users\stormy\Git\school projects\numberAnalyzer\bin\Debug\net6.0\numberAnalyzer.dll
+C:\Users\stormy\Git\school projects\numberAnalyzer\bin\Debug\net6.0\numberAnalyzer.pdb
+C:\Users\stormy\Git\school projects\numberAnalyzer\obj\Debug\net6.0\numberAnalyzer.csproj.AssemblyReference.cache
+C:\Users\stormy\Git\school projects\numberAnalyzer\obj\Debug\net6.0\numberAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stormy\Git\school projects\numberAnalyzer\obj\Debug\net6.0\numberAnalyzer.AssemblyInfoInputs.cache
+C:\Users\stormy\Git\school projects\numberAnalyzer\obj\Debug\net6.0\numberAnalyzer.AssemblyInfo.cs
+C:\Users\stormy\Git\school projects\numberAnalyzer\obj\Debug\net6.0\numberAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\stormy\Git\school projects\numberAnalyzer\obj\Debug\net6.0\numberAnalyzer.dll
+C:\Users\stormy\Git\school projects\numberAnalyzer\obj\Debug\net6.0\refint\numberAnalyzer.dll
+C:\Users\stormy\Git\school projects\numberAnalyzer\obj\Debug\net6.0\numberAnalyzer.pdb
+C:\Users\stormy\Git\school projects\numberAnalyzer\obj\Debug\net6.0\numberAnalyzer.genruntimeconfig.cache
+C:\Users\stormy\Git\school projects\numberAnalyzer\obj\Debug\net6.0\ref\numberAnalyzer.dll
